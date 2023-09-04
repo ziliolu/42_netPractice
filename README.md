@@ -35,3 +35,59 @@
   <br>
   <br>
 </details>
+
+<details>
+  <summary>Level 2</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level2.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 3</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level3.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 4</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level4.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 5</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level5.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 6</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level6.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 7</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level7.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
+
+<details>
+  <summary>Level 8</summary>
+  <br>
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level8.png" alt="level1" width=900>  
+  <br>
+  <br>
+</details>
