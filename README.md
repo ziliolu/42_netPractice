@@ -31,7 +31,7 @@
 <details>
   <summary>Level 1</summary>
   <br>
-  <img src="https://github.com/ziliolu/42_netPractice/blob/main/level1.png?raw=true" alt="level1" width=900>  
+  <img src="https://github.com/ziliolu/42_netPractice/blob/main/img/level1.png" alt="level1" width=900>  
   <br>
   <br>
 </details>
